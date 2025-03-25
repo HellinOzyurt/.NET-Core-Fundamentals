@@ -10,4 +10,4 @@ This repository contains example code covering the basics of C# and .NET Core. I
 ## 📂 How to Use  
 1. **Clone the repository:**  
    ```sh
-   git clone https://github.com/your-username/.NET-Core-Fundamentals.git
+   git clone https://github.com/HellinOzyurt/.NET-Core-Fundamentals.git
